@@ -313,7 +313,7 @@ h6 {
 .whats-float {
   position: fixed;
   transform:translate(108px,0px);
-  top:45%;
+  top:20rem;
   right:-35px;
   width:200px;
   height:60px;
@@ -362,7 +362,7 @@ h6 {
 .correo-float {
   position: fixed;
   transform:translate(108px,0px);
-  top:31.5em;
+  top:25rem;
   right:-35px;
   width:200px;
   height:60px;
